@@ -1,4 +1,4 @@
-# ExceeLearn 🎓
+# ExceLearn 🎓
 
 > **An AI-powered student learning companion that models your evolving knowledge state and delivers personalized, actionable guidance to improve learning outcomes.**
 
@@ -437,5 +437,6 @@ This project was built for the **Microsoft Track — AI in Education Hackathon 2
 ---
 
 *Made with ❤️ and too much coffee.*
+
 
 
