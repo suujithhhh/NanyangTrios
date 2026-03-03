@@ -8,7 +8,11 @@ ExceeLearn combines **Retrieval-Augmented Generation (RAG)**, a **three-agent AI
 
 ## 📽️ Demo Video
 
->(https://youtu.be/zDf56Db8Hq0?si=WLg7Amb0RsdA749U)  
+>(https://youtu.be/zDf56Db8Hq0?si=WLg7Amb0RsdA749U)
+
+
+Live Link for quick access to website : https://excelearn-1c00e.web.app/
+
 
 ---
 
@@ -29,7 +33,6 @@ excelearn/testbench/
 👉 **[Start here → testbench/SETUP.md](./testbench/SETUP.md)**
 
 
-Live Link for quick access to website : https://excelearn-1c00e.web.app/
 
 > **Demo account:** Log in with `test@test.com` (any password) to see a pre-loaded student with 6 weeks of realistic quiz history, visible memory decay, and chapter mastery contrast across all 5 subjects.
 
@@ -434,4 +437,5 @@ This project was built for the **Microsoft Track — AI in Education Hackathon 2
 ---
 
 *Made with ❤️ and too much coffee.*
+
 
